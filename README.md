@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dana Omar</h1>
 <h3 align="center">A striving full-stack developer from Jordan</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [link](link)
 
