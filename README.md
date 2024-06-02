@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available at [[link](link)](https://danaomar-portfolio.vercel.app/)
 
 - 📫 How to reach me **danaomaark@gmail.com**
 
