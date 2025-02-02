@@ -17,6 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dana-mo&show_icons=true&locale=en&layout=compact" alt="dana-mo" /></p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dana-mo&show_icons=true&locale=en" alt="dana-mo" /></p>
-
+-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dana-mo&" alt="dana-mo" /></p>
