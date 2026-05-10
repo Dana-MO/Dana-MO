@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dana Omar</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🌱 I’m currently learning **C++**
 
