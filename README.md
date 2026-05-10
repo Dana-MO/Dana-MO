@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dana Omar</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [[link](https://danaomar-portfolio.vercel.app/)]
+<!-- - 👨‍💻 All of my projects are available at [[link](https://danaomar-portfolio.vercel.app/)] -->
 
 - 📫 How to reach me **danaomaark@gmail.com**
 
